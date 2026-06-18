@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://iconico.ve/</loc>
+    <loc>https://iconico-one.vercel.app/</loc>
     <lastmod>2026-06-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://iconico.ve/proyecto</loc>
+    <loc>https://iconico-one.vercel.app/proyecto</loc>
     <lastmod>2026-06-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
